@@ -1,0 +1,4142 @@
+{
+  "climbs": [
+    {
+      "route_name": "Roadside Attraction",
+      "grade": "5.7",
+      "area": "Natural Bridge Region",
+      "date": "2026-06-02",
+      "rating": 4.0,
+      "type": "Trad",
+      "style": "Flash",
+      "notes": ""
+    },
+    {
+      "route_name": "Wicked Games",
+      "grade": "5.12d",
+      "area": "Natural Bridge Region",
+      "date": "2026-06-02",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Have you ever had a dream that you, um, you had, your, you- you could, you’ll do, you- you wants, you, you could do so, you- you’ll do, you could- you, you want, you want them to do you so much you could do anything?"
+    },
+    {
+      "route_name": "Stay the Hand",
+      "grade": "5.12a",
+      "area": "Natural Bridge Region",
+      "date": "2026-05-23",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Dragonslayer",
+      "grade": "5.10d",
+      "area": "Natural Bridge Region",
+      "date": "2026-05-23",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "100 Years of Solitude",
+      "grade": "5.11a",
+      "area": "Muir Valley",
+      "date": "2026-05-17",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Everything That Rises Must Converge",
+      "grade": "5.11d",
+      "area": "Muir Valley",
+      "date": "2026-05-17",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Demon Copperhead",
+      "grade": "5.11d",
+      "area": "Muir Valley",
+      "date": "2026-05-17",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Who Pooped in the Park?",
+      "grade": "5.11c",
+      "area": "Muir Valley",
+      "date": "2026-05-17",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "An absolute pile."
+    },
+    {
+      "route_name": "Psycho Babble",
+      "grade": "5.12a",
+      "area": "Summersville Lake (main)",
+      "date": "2026-05-15",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Actually a pretty fucking sick rig. 7th pitch of the day, absolute fight to finish, such a cool bit of movement."
+    },
+    {
+      "route_name": "First Steps",
+      "grade": "5.10c",
+      "area": "Kaymoor",
+      "date": "2026-05-13",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Doesn’t even matter if the climbing is good or not, when you see the view at the top you forget about it all."
+    },
+    {
+      "route_name": "Scenic Adult",
+      "grade": "5.11c",
+      "area": "Kaymoor",
+      "date": "2026-05-13",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Almost a totally sick route, had to drop a star for the fragile feeling, should have broken off, or be taken off flake at the start. Not to mention the loose rock through the crux. Otherwise rad."
+    },
+    {
+      "route_name": "Springer",
+      "grade": "5.10b",
+      "area": "Kaymoor",
+      "date": "2026-05-13",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Racer X",
+      "grade": "5.12d",
+      "area": "Natural Bridge Region",
+      "date": "2026-05-07",
+      "rating": -1.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "American Dream",
+      "grade": "5.12b/c",
+      "area": "Coal Bank Hollow",
+      "date": "2026-05-03",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Code Red",
+      "grade": "5.13a",
+      "area": "Sore Heel Hollow",
+      "date": "2026-05-02",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "The Fury",
+      "grade": "5.11c",
+      "area": "Muir Valley",
+      "date": "2026-04-24",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Lolita",
+      "grade": "5.12a",
+      "area": "Muir Valley",
+      "date": "2026-04-24",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "East of Eden",
+      "grade": "5.12a",
+      "area": "Muir Valley",
+      "date": "2026-04-24",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Korsakoff Syndrome",
+      "grade": "5.11c",
+      "area": "Natural Bridge Region",
+      "date": "2026-04-22",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "十三，十七"
+    },
+    {
+      "route_name": "High Life",
+      "grade": "5.12b",
+      "area": "Natural Bridge Region",
+      "date": "2026-04-22",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "три осем"
+    },
+    {
+      "route_name": "You Take Sally",
+      "grade": "5.11d",
+      "area": "Drive-Bob Parking",
+      "date": "2026-04-20",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": ""
+    },
+    {
+      "route_name": "Whiskey in the Water",
+      "grade": "5.12d",
+      "area": "Natural Bridge Region",
+      "date": "2026-04-16",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Hogeita hamar, hogeita hiru."
+    },
+    {
+      "route_name": "Mind Meld",
+      "grade": "5.12d",
+      "area": "Coal Bank Hollow",
+      "date": "2026-04-07",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "ဆယ့်ခြောက်ဆယ့်ရှစ်"
+    },
+    {
+      "route_name": "Regulation Number Five",
+      "grade": "5.12c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2026-04-04",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Golden Road",
+      "grade": "5.12a",
+      "area": "Muir Valley",
+      "date": "2026-03-31",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Butane Junky",
+      "grade": "5.12b",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2026-03-19",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Fünf Acht"
+    },
+    {
+      "route_name": "Better Than Homemade",
+      "grade": "5.12d",
+      "area": "Natural Bridge Region",
+      "date": "2026-02-20",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Bullfighter",
+      "grade": "5.12b",
+      "area": "Muir Valley",
+      "date": "2026-02-18",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Gecko Circus",
+      "grade": "5.13a",
+      "area": "Coal Bank Hollow",
+      "date": "2026-01-13",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "שלושים ואחת, שש"
+    },
+    {
+      "route_name": "The Shaman",
+      "grade": "5.12c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2026-01-05",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Diciotto e diciannove"
+    },
+    {
+      "route_name": "Prajna",
+      "grade": "5.12b",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2026-01-05",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "The Suffering",
+      "grade": "5.12b",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-12-23",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "yigirma bir, olti"
+    },
+    {
+      "route_name": "Monks Brew",
+      "grade": "5.10d",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-12-20",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Barking Dogmas",
+      "grade": "5.11+",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-12-20",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Repent for Your Sends",
+      "grade": "5.12d",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-12-20",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "نهه ویشت، نهه."
+    },
+    {
+      "route_name": "Single Grainy Photograph",
+      "grade": "5.12b",
+      "area": "Red River Gorge",
+      "date": "2025-12-16",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "The Big Lez",
+      "grade": "5.12b",
+      "area": "Red River Gorge",
+      "date": "2025-12-16",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Galunlati",
+      "grade": "5.12b",
+      "area": "Muir Valley",
+      "date": "2025-11-26",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Brilliant Orange",
+      "grade": "5.13a",
+      "area": "Coal Bank Hollow",
+      "date": "2025-11-24",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "bîst û sê, çar"
+    },
+    {
+      "route_name": "Too Many Puppies",
+      "grade": "5.12-",
+      "area": "Northern Gorge",
+      "date": "2025-11-15",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "hiji opat belas"
+    },
+    {
+      "route_name": "Hen-ry!",
+      "grade": "5.11b",
+      "area": "Northern Gorge",
+      "date": "2025-11-15",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Sex Farm",
+      "grade": "5.12b",
+      "area": "Northern Gorge",
+      "date": "2025-11-15",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "eziyisikhombisa neshumi nesishiyagalolunye"
+    },
+    {
+      "route_name": "Gunks 5.9",
+      "grade": "5.11c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-11-09",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "The Verdict",
+      "grade": "5.12b",
+      "area": "The Motherlode",
+      "date": "2025-10-25",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Pay the Devil",
+      "grade": "5.13b",
+      "area": "Flat Hollow",
+      "date": "2025-10-22",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "ceithre cinn is fiche, ceithre cinn déag"
+    },
+    {
+      "route_name": "Evil Emperor",
+      "grade": "5.13a",
+      "area": "Coal Bank Hollow",
+      "date": "2025-10-20",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Zevenentwintig, vijftien"
+    },
+    {
+      "route_name": "Fatty Fatty Butter Pants",
+      "grade": "5.13a",
+      "area": "Flat Hollow",
+      "date": "2025-10-09",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "To Julie, With Love",
+      "grade": "5.12c",
+      "area": "Flat Hollow",
+      "date": "2025-10-09",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Worth the effort for the incredible view at the top. A very memorable experience."
+    },
+    {
+      "route_name": "72 Hour Energy",
+      "grade": "5.12a",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2025-10-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Bear Down",
+      "grade": "5.12b",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2025-10-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Spank",
+      "grade": "5.13a",
+      "area": "Drive-Bob Parking",
+      "date": "2025-09-20",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "iwakāluakūmālima, ʻumikumamālima"
+    },
+    {
+      "route_name": "Evil Eye",
+      "grade": "5.11d",
+      "area": "Coal Bank Hollow",
+      "date": "2025-09-16",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Trephination",
+      "grade": "5.11d",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-09-07",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Veintiséis y trece"
+    },
+    {
+      "route_name": "Ticks and Beer",
+      "grade": "5.12c",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2025-09-03",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": "Hogeita hamar, bat"
+    },
+    {
+      "route_name": "Barren Gold",
+      "grade": "5.12a",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2025-09-03",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "十三，三"
+    },
+    {
+      "route_name": "Golden Snow Cone",
+      "grade": "5.10c",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2025-09-03",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Xeno-Demon",
+      "grade": "5.12a",
+      "area": "Red River Gorge",
+      "date": "2025-08-31",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": "Diciotto e diciotto"
+    },
+    {
+      "route_name": "Immoral Equity",
+      "grade": "5.12b/c",
+      "area": "Red River Gorge",
+      "date": "2025-08-31",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "sampu at labintatlo"
+    },
+    {
+      "route_name": "Primus Noctum",
+      "grade": "5.12a",
+      "area": "Drive-Bob Parking",
+      "date": "2025-08-26",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Naked Lunch",
+      "grade": "5.12a",
+      "area": "Drive-Bob Parking",
+      "date": "2025-08-26",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": "neljä yksi"
+    },
+    {
+      "route_name": "The Name of the Game",
+      "grade": "5.13a",
+      "area": "Downtown",
+      "date": "2025-07-27",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Soul Bossa Nova",
+      "grade": "5.12b",
+      "area": "Old Road Crags",
+      "date": "2025-07-26",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Shags Very Well",
+      "grade": "5.12c",
+      "area": "Old Road Crags",
+      "date": "2025-07-26",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Felicity Shagwell",
+      "grade": "5.11a",
+      "area": "Old Road Crags",
+      "date": "2025-07-26",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Robot Steamroller",
+      "grade": "5.12a/b",
+      "area": "Downtown",
+      "date": "2025-07-24",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "The Arch",
+      "grade": "5.12a",
+      "area": "Blacktail Butte",
+      "date": "2025-07-13",
+      "rating": 4.0,
+      "type": "Sport, Alpine",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Full Charge",
+      "grade": "5.11c/d",
+      "area": "Lake Point",
+      "date": "2025-07-11",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Holla",
+      "grade": "5.12d",
+      "area": "Crag 6",
+      "date": "2025-07-09",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "The Jizzleberry Bush",
+      "grade": "5.12a/b",
+      "area": "Crag 6",
+      "date": "2025-07-09",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": ""
+    },
+    {
+      "route_name": "EKV: Exo-atmospheric Kill Vehicle",
+      "grade": "5.12c",
+      "area": "Mondo Beyondo",
+      "date": "2025-07-07",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Some Boys Never Learn extension",
+      "grade": "5.11c",
+      "area": "Valhalla",
+      "date": "2025-07-07",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Some Boys Never Learn",
+      "grade": "5.10c",
+      "area": "Valhalla",
+      "date": "2025-07-07",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "High Park Rodeo",
+      "grade": "5.13b",
+      "area": "Crag 6",
+      "date": "2025-07-05",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Dr. Jeckyl",
+      "grade": "5.11c",
+      "area": "Crag 6",
+      "date": "2025-07-04",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Left El Shinto",
+      "grade": "5.12b",
+      "area": "French Cattle Ranch",
+      "date": "2025-07-01",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Tangerine Fat Explosion",
+      "grade": "5.12c",
+      "area": "French Cattle Ranch",
+      "date": "2025-07-01",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Pocket Rocket",
+      "grade": "5.12b",
+      "area": "Valhalla",
+      "date": "2025-06-29",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Crematorium Roof",
+      "grade": "5.12a",
+      "area": "Mondo Beyondo",
+      "date": "2025-06-29",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Burning Grandma Bones",
+      "grade": "5.11b",
+      "area": "Mondo Beyondo",
+      "date": "2025-06-29",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Hell Yes I want Cheesy Poofs",
+      "grade": "5.11c",
+      "area": "French Cattle Ranch",
+      "date": "2025-06-28",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Crossbow Chaos Theory",
+      "grade": "5.11a",
+      "area": "French Cattle Ranch",
+      "date": "2025-06-28",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Pulling Pockets",
+      "grade": "5.10d",
+      "area": "Natural Bridge Region",
+      "date": "2025-06-08",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "mejilelogun, mẹjọ"
+    },
+    {
+      "route_name": "Jersey Connection",
+      "grade": "5.12b",
+      "area": "Natural Bridge Region",
+      "date": "2025-06-08",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Ro Shampo",
+      "grade": "5.12a",
+      "area": "Natural Bridge Region",
+      "date": "2025-06-08",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": "여덟과 넷"
+    },
+    {
+      "route_name": "Ale-8-One",
+      "grade": "5.12b",
+      "area": "The Motherlode",
+      "date": "2025-05-25",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "पन्ध्र तेइस"
+    },
+    {
+      "route_name": "Resurrection",
+      "grade": "5.12c",
+      "area": "The Motherlode",
+      "date": "2025-05-25",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "hiji genep"
+    },
+    {
+      "route_name": "Trust in Jesus",
+      "grade": "5.11b",
+      "area": "The Motherlode",
+      "date": "2025-05-21",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Scarlet Scorchdropper",
+      "grade": "5.12a",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2025-05-18",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Nasal Nuggets",
+      "grade": "5.12a",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2025-05-18",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "iwakāluakumamālima, iwakāluakumamālima"
+    },
+    {
+      "route_name": "Mike Teavee",
+      "grade": "5.12a",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2025-05-18",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Stalker",
+      "grade": "5.12a",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2025-05-18",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "The Abyss",
+      "grade": "5.12d",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-05-11",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Ομάδα είκοσι τρία έως τριάντα δύο"
+    },
+    {
+      "route_name": "Naked",
+      "grade": "5.12a/b",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2025-05-03",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "hiji tujuh"
+    },
+    {
+      "route_name": "Snozzberries",
+      "grade": "5.11d",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2025-05-03",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Hip to the Jive",
+      "grade": "5.11b",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2025-05-03",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "undeviginti, quinque"
+    },
+    {
+      "route_name": "The Reacharound",
+      "grade": "5.12c",
+      "area": "The Motherlode",
+      "date": "2025-04-30",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Knuckle Sauce",
+      "grade": "5.12a",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-04-24",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": "여덟과 셋"
+    },
+    {
+      "route_name": "Break the Scene",
+      "grade": "5.12a",
+      "area": "Sore Heel Hollow",
+      "date": "2025-04-22",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Banksy",
+      "grade": "5.12d",
+      "area": "Sore Heel Hollow",
+      "date": "2025-04-22",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "སུམ་ཅུ་སོ་གཉིས།གཅིག།"
+    },
+    {
+      "route_name": "Mosaic",
+      "grade": "5.12c",
+      "area": "Sore Heel Hollow",
+      "date": "2025-04-19",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": ""
+    },
+    {
+      "route_name": "Iniquity",
+      "grade": "5.12b",
+      "area": "Muir Valley",
+      "date": "2025-04-12",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "द्वादश च त्रीणि च"
+    },
+    {
+      "route_name": "Medusa",
+      "grade": "5.12a",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-04-09",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": ""
+    },
+    {
+      "route_name": "Godzilla",
+      "grade": "5.12d",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-04-09",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "སུམ་ཅུ་རྩ་གཉིས་དང་བཞི།"
+    },
+    {
+      "route_name": "Bulldog",
+      "grade": "V8",
+      "area": "Red River Gorge Bouldering",
+      "date": "2025-04-08",
+      "rating": 3.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "Tissue Tiger",
+      "grade": "5.12b",
+      "area": "Northern Gorge",
+      "date": "2025-04-01",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "bîst û sê, panzdeh"
+    },
+    {
+      "route_name": "Nicorette",
+      "grade": "5.12a",
+      "area": "Northern Gorge",
+      "date": "2025-04-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Tie One On",
+      "grade": "5.13a",
+      "area": "Natural Bridge Region",
+      "date": "2025-04-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "neljä yhdeksän"
+    },
+    {
+      "route_name": "Prometheus Unbound",
+      "grade": "5.13a",
+      "area": "Muir Valley",
+      "date": "2025-03-28",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Chainsaw Massacre",
+      "grade": "5.12a",
+      "area": "The Motherlode",
+      "date": "2025-03-28",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Massive Attack",
+      "grade": "5.12a",
+      "area": "Sore Heel Hollow",
+      "date": "2025-03-24",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "twee twintig"
+    },
+    {
+      "route_name": "Push Present",
+      "grade": "5.11d",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-03-23",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Pandemic",
+      "grade": "5.12b",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-03-23",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Halitosis",
+      "grade": "5.12d",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-03-23",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "שלושים ואחת, תשע"
+    },
+    {
+      "route_name": "Mule",
+      "grade": "5.12c",
+      "area": "Northern Gorge",
+      "date": "2025-03-20",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Super Slab",
+      "grade": "5.12+",
+      "area": "Northern Gorge",
+      "date": "2025-03-18",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Direct start or you didn’t send"
+    },
+    {
+      "route_name": "Sundial",
+      "grade": "5.11-",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-03-09",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Can't Touch This",
+      "grade": "5.12c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-03-09",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Extra Backup",
+      "grade": "5.12a/b",
+      "area": "Drive-Bob Parking",
+      "date": "2025-03-07",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Eddie is Iron Maiden",
+      "grade": "5.12b",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2025-03-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Swahili Slang",
+      "grade": "5.12b/c",
+      "area": "The Motherlode",
+      "date": "2025-01-27",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Ομάδα δώδεκα έως είκοσι δύο"
+    },
+    {
+      "route_name": "Breathe Right",
+      "grade": "5.11c",
+      "area": "The Motherlode",
+      "date": "2025-01-27",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Reliquary",
+      "grade": "5.12b",
+      "area": "Northern Gorge",
+      "date": "2025-01-12",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Ball Scratcher",
+      "grade": "5.12a",
+      "area": "The Motherlode",
+      "date": "2025-01-09",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Ruda Tovar (AKA Porter's 12c)",
+      "grade": "5.12d",
+      "area": "Lower Meadow",
+      "date": "2024-12-30",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Lyin' and Stealin'",
+      "grade": "5.12b",
+      "area": "Summersville Lake (main)",
+      "date": "2024-12-29",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Wearing Out My Welcome",
+      "grade": "5.12a",
+      "area": "Sore Heel Hollow",
+      "date": "2024-12-08",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Cremulator",
+      "grade": "5.13a",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-12-07",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "十三，十一"
+    },
+    {
+      "route_name": "Mirage",
+      "grade": "5.12c",
+      "area": "Muir Valley",
+      "date": "2024-12-04",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Bundle of Joy",
+      "grade": "5.13a",
+      "area": "Muir Valley",
+      "date": "2024-12-04",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Sáu giờ mười bốn"
+    },
+    {
+      "route_name": "J's on My Feet",
+      "grade": "5.12c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-11-27",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "The Vole",
+      "grade": "5.12d",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-11-26",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Sluts are CooI",
+      "grade": "5.12a",
+      "area": "Natural Bridge Region",
+      "date": "2024-11-25",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": ""
+    },
+    {
+      "route_name": "Morning Wood",
+      "grade": "5.12a",
+      "area": "Natural Bridge Region",
+      "date": "2024-11-25",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "neljä neljätoista"
+    },
+    {
+      "route_name": "Toxicondendron",
+      "grade": "5.11b",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2024-11-22",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Eye of the Liger",
+      "grade": "5.12a",
+      "area": "The Zoo (CLOSED)",
+      "date": "2024-11-18",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "द्वादश संख्या एकविंशति संख्या च"
+    },
+    {
+      "route_name": "Spiral Snake",
+      "grade": "5.12c",
+      "area": "The Zoo (CLOSED)",
+      "date": "2024-11-18",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Zevenentwintig, drieëntwintig"
+    },
+    {
+      "route_name": "Count Dooku",
+      "grade": "5.11d",
+      "area": "Coal Bank Hollow",
+      "date": "2024-11-16",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "sefulutasi iva"
+    },
+    {
+      "route_name": "Grippy Green",
+      "grade": "5.12a/b",
+      "area": "Coal Bank Hollow",
+      "date": "2024-11-16",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Thunderface",
+      "grade": "5.12d",
+      "area": "Flat Hollow",
+      "date": "2024-11-16",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "The Fray Train",
+      "grade": "5.12b",
+      "area": "Natural Bridge Region",
+      "date": "2024-11-11",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "neljä neljä"
+    },
+    {
+      "route_name": "Cognitive Dissonance",
+      "grade": "5.12a",
+      "area": "Natural Bridge Region",
+      "date": "2024-11-11",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Green Room",
+      "grade": "5.12b",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-11-03",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Black Pearl",
+      "grade": "5.11d",
+      "area": "Flat Hollow",
+      "date": "2024-10-28",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Veintiséis y veintiuno"
+    },
+    {
+      "route_name": "Route 22",
+      "grade": "5.12a",
+      "area": "Drive-Bob Parking",
+      "date": "2024-10-20",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Mas Choss",
+      "grade": "5.11c",
+      "area": "Drive-Bob Parking",
+      "date": "2024-10-20",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Reticent",
+      "grade": "5.12c",
+      "area": "Drive-Bob Parking",
+      "date": "2024-10-20",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": "Keturiolika penkiolika"
+    },
+    {
+      "route_name": "Fake ID",
+      "grade": "5.11c",
+      "area": "Natural Bridge Region",
+      "date": "2024-10-13",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Hippocrite",
+      "grade": "5.12a",
+      "area": "The Zoo (CLOSED)",
+      "date": "2024-10-13",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Hang Over",
+      "grade": "5.12c",
+      "area": "Natural Bridge Region",
+      "date": "2024-10-13",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Crimps and Bloods",
+      "grade": "5.12b",
+      "area": "Drive-Bob Parking",
+      "date": "2024-10-08",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "पन्ध्र बीस"
+    },
+    {
+      "route_name": "Swallow the Hollow",
+      "grade": "5.12a",
+      "area": "Coal Bank Hollow",
+      "date": "2024-10-05",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Legalize It",
+      "grade": "5.12a",
+      "area": "Coal Bank Hollow",
+      "date": "2024-10-05",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Rocket Dog",
+      "grade": "5.12b",
+      "area": "The Motherlode",
+      "date": "2024-10-03",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Douăzeci și opt, douăzeci și trei"
+    },
+    {
+      "route_name": "The Low Easy One",
+      "grade": "5.12b",
+      "area": "The Motherlode",
+      "date": "2024-10-03",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Flaccid Fruit",
+      "grade": "5.12b",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-10-02",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "venti, nove"
+    },
+    {
+      "route_name": "Mojo Bro Tank Bar Crawl",
+      "grade": "5.12a",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-10-02",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Fruit by the Foot",
+      "grade": "5.12a/b",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-10-02",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Don't Call it a Comeback",
+      "grade": "5.11d",
+      "area": "Flat Hollow",
+      "date": "2024-09-29",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Irreverent C",
+      "grade": "5.12b",
+      "area": "Sore Heel Hollow",
+      "date": "2024-09-29",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Dogleg",
+      "grade": "5.12a",
+      "area": "Drive-Bob Parking",
+      "date": "2024-09-28",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Abiyoyo",
+      "grade": "5.12b",
+      "area": "Muir Valley",
+      "date": "2024-09-21",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Signed in Blood",
+      "grade": "5.12b",
+      "area": "Coal Bank Hollow",
+      "date": "2024-09-15",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "སུམ་ཅུ་རྩ་གཉིས་དང་དགུ།"
+    },
+    {
+      "route_name": "Crumblies",
+      "grade": "5.12a",
+      "area": "Sore Heel Hollow",
+      "date": "2024-09-14",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "yigirma bir, yigirma"
+    },
+    {
+      "route_name": "Wake and Bake",
+      "grade": "5.11d",
+      "area": "Coal Bank Hollow",
+      "date": "2024-09-12",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Praying Mantis",
+      "grade": "5.12a",
+      "area": "Coal Bank Hollow",
+      "date": "2024-09-12",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Sáu giờ mười lăm"
+    },
+    {
+      "route_name": "N4",
+      "grade": "5.10c/d",
+      "area": "Coal Bank Hollow",
+      "date": "2024-09-07",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Banjolero",
+      "grade": "5.10c",
+      "area": "Coal Bank Hollow",
+      "date": "2024-09-07",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "twee twintig"
+    },
+    {
+      "route_name": "Maximum Overdrive",
+      "grade": "5.11c",
+      "area": "Summersville Lake (main)",
+      "date": "2024-08-17",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Narcissus",
+      "grade": "5.12a",
+      "area": "Summersville Lake (main)",
+      "date": "2024-08-17",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Sloth",
+      "grade": "5.12c",
+      "area": "Endless Wall",
+      "date": "2024-08-17",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Strip Tease",
+      "grade": "5.12a",
+      "area": "Upper Meadow",
+      "date": "2024-08-16",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Skull In Hole",
+      "grade": "5.12a",
+      "area": "Upper Meadow",
+      "date": "2024-08-16",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Starry",
+      "grade": "5.12a",
+      "area": "Upper Meadow",
+      "date": "2024-08-16",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Flirting with E",
+      "grade": "5.11d",
+      "area": "Summersville Lake (main)",
+      "date": "2024-08-15",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Satisfaction Guaranteed",
+      "grade": "5.11a/b",
+      "area": "Summersville Lake (main)",
+      "date": "2024-08-15",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Sail",
+      "grade": "5.12b/c",
+      "area": "Flat Hollow",
+      "date": "2024-08-12",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Eyeball Chaw",
+      "grade": "5.12a",
+      "area": "Drive-Bob Parking",
+      "date": "2024-08-03",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "sampu at dalawampu't lima"
+    },
+    {
+      "route_name": "Cabin Boy Fever",
+      "grade": "5.11b",
+      "area": "Flat Hollow",
+      "date": "2024-07-31",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Toxic Hueco",
+      "grade": "5.11d",
+      "area": "Lower Meadow",
+      "date": "2024-07-09",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Just Another Pretty Face",
+      "grade": "5.11b",
+      "area": "Lower Meadow",
+      "date": "2024-07-07",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "The Warm-Up",
+      "grade": "5.11a",
+      "area": "Endless Wall",
+      "date": "2024-07-06",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "June Bug",
+      "grade": "5.11d",
+      "area": "Coal Bank Hollow",
+      "date": "2024-07-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "три едно"
+    },
+    {
+      "route_name": "October Sky",
+      "grade": "5.11c",
+      "area": "Coal Bank Hollow",
+      "date": "2024-07-01",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Fairweather Friend",
+      "grade": "5.10c",
+      "area": "Coal Bank Hollow",
+      "date": "2024-07-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "ဆယ့်ခြောက်ငါး"
+    },
+    {
+      "route_name": "Gung Ho",
+      "grade": "5.12b",
+      "area": "Northern Gorge",
+      "date": "2024-07-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "sefulutasi fa"
+    },
+    {
+      "route_name": "Fuzzy Undercling",
+      "grade": "5.11b V4",
+      "area": "Northern Gorge",
+      "date": "2024-07-01",
+      "rating": 3.0,
+      "type": "Sport, Boulder",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Blank Canvas",
+      "grade": "5.12c",
+      "area": "Sore Heel Hollow",
+      "date": "2024-06-12",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "שלושים ואחת, שמונה עשרה"
+    },
+    {
+      "route_name": "The Dong Wall",
+      "grade": "5.10b",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2024-06-09",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "여덟과 열여덟"
+    },
+    {
+      "route_name": "Hippie Core Drill Machine",
+      "grade": "5.12a",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2024-06-09",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Zen and the Art of Masturbation",
+      "grade": "5.12d",
+      "area": "Sore Heel Hollow",
+      "date": "2024-06-08",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Short By a Foot",
+      "grade": "5.10c",
+      "area": "Sore Heel Hollow",
+      "date": "2024-06-02",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "neljä kuusitoista"
+    },
+    {
+      "route_name": "Deeper is Better",
+      "grade": "5.10b",
+      "area": "Drive-Bob Parking",
+      "date": "2024-05-31",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Pool Boy",
+      "grade": "5.10b",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-05-29",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Տասնյոթ տասներկու"
+    },
+    {
+      "route_name": "The Mole",
+      "grade": "5.13a",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-05-27",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Sembilan dan lima belas"
+    },
+    {
+      "route_name": "Eager Beaver",
+      "grade": "5.12+",
+      "area": "The Zoo (CLOSED)",
+      "date": "2024-05-22",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Crimpin' Ain't Easy",
+      "grade": "5.11c",
+      "area": "The Zoo (CLOSED)",
+      "date": "2024-05-19",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Keturiolika keturiolika"
+    },
+    {
+      "route_name": "Darkness Falls",
+      "grade": "5.13a",
+      "area": "Natural Bridge Region",
+      "date": "2024-04-25",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "hiji duapuluh dua"
+    },
+    {
+      "route_name": "Icebreaker",
+      "grade": "5.12b",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2024-04-21",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Eternal Fire",
+      "grade": "5.13c",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2024-04-21",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Douăzeci și opt, cinci"
+    },
+    {
+      "route_name": "Adult Swim",
+      "grade": "5.13a",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-04-18",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "J Rat's Back",
+      "grade": "5.12a",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2024-04-17",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Cold Hard Bitch",
+      "grade": "5.12b",
+      "area": "Drive-Bob Parking",
+      "date": "2024-04-12",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": ""
+    },
+    {
+      "route_name": "The Dude Abides",
+      "grade": "5.11c",
+      "area": "Drive-Bob Parking",
+      "date": "2024-04-07",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": "yigirma bir, o'n ikki"
+    },
+    {
+      "route_name": "Hot Gossip",
+      "grade": "5.10b",
+      "area": "Muir Valley",
+      "date": "2024-03-24",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Cosmic Trigger",
+      "grade": "5.12b",
+      "area": "Muir Valley",
+      "date": "2024-03-24",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Diminished Gluteal Syndrome",
+      "grade": "5.12c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-03-23",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": "Fünf eins"
+    },
+    {
+      "route_name": "The Dainty Butterfly",
+      "grade": "5.12c",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2024-03-16",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "twee agt"
+    },
+    {
+      "route_name": "Triple Sec aka Fifty Bucks",
+      "grade": "5.12d",
+      "area": "Muir Valley",
+      "date": "2024-03-14",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Douăzeci și opt, paisprezece"
+    },
+    {
+      "route_name": "Naughty Neighbors",
+      "grade": "5.10d",
+      "area": "Muir Valley",
+      "date": "2024-03-14",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Bad Company",
+      "grade": "5.10b",
+      "area": "Muir Valley",
+      "date": "2024-03-14",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Crimp My Ride",
+      "grade": "5.12a",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2024-03-12",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Hogeita hamar, hemeretzi"
+    },
+    {
+      "route_name": "The Sauce",
+      "grade": "5.12b",
+      "area": "The Motherlode",
+      "date": "2024-03-12",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Psyberpunk",
+      "grade": "5.11c",
+      "area": "Muir Valley",
+      "date": "2024-03-11",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "sefulutasi sefuluiva"
+    },
+    {
+      "route_name": "Jesus Wept",
+      "grade": "5.12d",
+      "area": "Muir Valley",
+      "date": "2024-03-10",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "སུམ་ཅུ་སོ་གཉིས།བཅུ་དགུ།"
+    },
+    {
+      "route_name": "Centerfire",
+      "grade": "5.11c",
+      "area": "Natural Bridge Region",
+      "date": "2024-03-07",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Steelworker",
+      "grade": "5.12c",
+      "area": "Natural Bridge Region",
+      "date": "2024-03-07",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "द्वादशसंख्या च पञ्चदशसंख्या च"
+    },
+    {
+      "route_name": "Scalpel",
+      "grade": "5.12d",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-03-05",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Ebola",
+      "grade": "5.12b/c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-03-03",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Veintiséis y diecinueve"
+    },
+    {
+      "route_name": "Golden Touch",
+      "grade": "5.13b",
+      "area": "The Motherlode",
+      "date": "2024-02-29",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Coroner",
+      "grade": "5.12c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-02-23",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "여덟과 열넷"
+    },
+    {
+      "route_name": "The Middle Path",
+      "grade": "5.12c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-02-04",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "The Rifleman",
+      "grade": "5.12b/c",
+      "area": "Northern Gorge",
+      "date": "2024-01-22",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Brachial Plexus",
+      "grade": "5.11d",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-01-11",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "venti, sedese"
+    },
+    {
+      "route_name": "Beta Blocker",
+      "grade": "5.12b",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2024-01-11",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Appalachian Spring",
+      "grade": "5.13a",
+      "area": "Northern Gorge",
+      "date": "2024-01-03",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "mejilelogun, ọkan"
+    },
+    {
+      "route_name": "Buff the Wood",
+      "grade": "5.12b",
+      "area": "The Motherlode",
+      "date": "2024-01-01",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Trad Sucker",
+      "grade": "5.11b",
+      "area": "The Motherlode",
+      "date": "2023-12-30",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "पन्ध्र पन्ध्र"
+    },
+    {
+      "route_name": "Heart Shaped Box",
+      "grade": "5.12c",
+      "area": "The Motherlode",
+      "date": "2023-12-23",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Check Your Grip",
+      "grade": "5.12a",
+      "area": "Drive-Bob Parking",
+      "date": "2023-12-16",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "undeviginti, sex"
+    },
+    {
+      "route_name": "Hot For Teacher",
+      "grade": "5.12c",
+      "area": "The Motherlode",
+      "date": "2023-12-15",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Stain",
+      "grade": "5.12c",
+      "area": "The Motherlode",
+      "date": "2023-12-12",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Douăzeci și opt, opt"
+    },
+    {
+      "route_name": "Gene Wilder",
+      "grade": "5.12d",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2023-11-29",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "ဆယ့်ခြောက်နှစ်ဆယ်"
+    },
+    {
+      "route_name": "No Fluff",
+      "grade": "5.11d",
+      "area": "Coal Bank Hollow",
+      "date": "2023-11-27",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Robotic Thumb",
+      "grade": "5.10b",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2023-11-15",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "ceithre cinn is fiche, cúig déag"
+    },
+    {
+      "route_name": "Cell Block Six",
+      "grade": "5.12c",
+      "area": "Muir Valley",
+      "date": "2023-11-14",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "द्वादशसंख्या चतुर्दशसंख्या च"
+    },
+    {
+      "route_name": "Tao Bato",
+      "grade": "5.11a",
+      "area": "Muir Valley",
+      "date": "2023-11-14",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Sáu năm"
+    },
+    {
+      "route_name": "The Return of Frank Byron",
+      "grade": "5.12d",
+      "area": "Sore Heel Hollow",
+      "date": "2023-11-08",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "十三，二十一"
+    },
+    {
+      "route_name": "Little Teapot",
+      "grade": "5.12a",
+      "area": "Sore Heel Hollow",
+      "date": "2023-11-08",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Flash",
+      "notes": ""
+    },
+    {
+      "route_name": "No Redemption",
+      "grade": "5.13b",
+      "area": "Drive-Bob Parking",
+      "date": "2023-10-31",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "여덟과 셋"
+    },
+    {
+      "route_name": "Swamp Gator",
+      "grade": "5.12b",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2023-10-18",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "hiji genep"
+    },
+    {
+      "route_name": "Live with a Curse",
+      "grade": "5.12d",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2023-10-18",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Demon Seed",
+      "grade": "5.12c",
+      "area": "Drive-Bob Parking",
+      "date": "2023-10-17",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Diciotto e diciotto"
+    },
+    {
+      "route_name": "Toker",
+      "grade": "5.11a",
+      "area": "Drive-Bob Parking",
+      "date": "2023-10-13",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Տասնյոթ քսան"
+    },
+    {
+      "route_name": "Orange Juice",
+      "grade": "5.12c",
+      "area": "Northern Gorge",
+      "date": "2023-10-11",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "\n"
+    },
+    {
+      "route_name": "Beta-vul Pipeline",
+      "grade": "5.12a",
+      "area": "Drive-Bob Parking",
+      "date": "2023-10-07",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Calm Like a Bomb",
+      "grade": "5.13a",
+      "area": "Sore Heel Hollow",
+      "date": "2023-10-07",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Sembilan dan dua puluh"
+    },
+    {
+      "route_name": "Single Finger Salute",
+      "grade": "5.10c",
+      "area": "Sore Heel Hollow",
+      "date": "2023-10-03",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Ghost in the Machine",
+      "grade": "5.10c/d",
+      "area": "Sore Heel Hollow",
+      "date": "2023-09-23",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Wildfire",
+      "grade": "5.12a",
+      "area": "Sore Heel Hollow",
+      "date": "2023-09-18",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Veintiséis y veinte"
+    },
+    {
+      "route_name": "Fatal Vision",
+      "grade": "5.11c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2023-09-15",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "mejilelogun, mẹrinla"
+    },
+    {
+      "route_name": "Mercy, the Huff",
+      "grade": "5.12b",
+      "area": "Northern Gorge",
+      "date": "2023-09-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "The Preacher's Daughter",
+      "grade": "5.11a/b",
+      "area": "Sore Heel Hollow",
+      "date": "2023-08-28",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "27 Years of Climbing",
+      "grade": "5.8",
+      "area": "Sore Heel Hollow",
+      "date": "2023-08-24",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "sefulutasi fitu"
+    },
+    {
+      "route_name": "Johnny B. Good",
+      "grade": "5.11a",
+      "area": "Sore Heel Hollow",
+      "date": "2023-08-24",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Murano",
+      "grade": "5.10b/c",
+      "area": "Sore Heel Hollow",
+      "date": "2023-08-24",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Guernica (To first anchor)",
+      "grade": "5.11a",
+      "area": "Sore Heel Hollow",
+      "date": "2023-08-24",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Injured Reserve",
+      "grade": "5.11a/b",
+      "area": "The Motherlode",
+      "date": "2023-08-20",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "To Defy the Laws of Tradition",
+      "grade": "5.10-",
+      "area": "Northern Gorge",
+      "date": "2023-08-18",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "5. Drugs and Sex | 5065",
+      "grade": "5.12d",
+      "area": "Valhalla",
+      "date": "2023-08-09",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Ecstasy",
+      "grade": "5.10d",
+      "area": "Valhalla",
+      "date": "2023-08-06",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Reverse Cowgirl",
+      "grade": "5.12a",
+      "area": "Valhalla",
+      "date": "2023-08-06",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Kama Sutra",
+      "grade": "5.12a",
+      "area": "Valhalla",
+      "date": "2023-08-06",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Dickin's Cider",
+      "grade": "5.12c",
+      "area": "Valhalla",
+      "date": "2023-08-06",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Vitamin K",
+      "grade": "5.12b",
+      "area": "Valhalla",
+      "date": "2023-08-03",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Cocaine Rodeo",
+      "grade": "5.12a",
+      "area": "Valhalla",
+      "date": "2023-08-03",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "School's Out",
+      "grade": "5.10c/d",
+      "area": "Mondo Beyondo",
+      "date": "2023-08-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Screaming Night Hog",
+      "grade": "5.12c",
+      "area": "Mondo Beyondo",
+      "date": "2023-08-01",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Bikini Girls with Machine Guns",
+      "grade": "5.11a/b",
+      "area": "Valhalla",
+      "date": "2023-08-01",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Bovine Intervention",
+      "grade": "5.10d",
+      "area": "Aspen Glade",
+      "date": "2023-07-25",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Young Guns",
+      "grade": "5.10d",
+      "area": "Aspen Glade",
+      "date": "2023-07-25",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Lonely are the Brave",
+      "grade": "5.11a/b",
+      "area": "Aspen Glade",
+      "date": "2023-07-25",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Jolly Rancher",
+      "grade": "5.12c",
+      "area": "Aspen Glade",
+      "date": "2023-07-25",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Burnt Beans and Coffee",
+      "grade": "5.12c",
+      "area": "Wild Iris",
+      "date": "2023-07-25",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "American Beauty",
+      "grade": "5.12b",
+      "area": "Aspen Glade",
+      "date": "2023-07-21",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Functional Idiot",
+      "grade": "5.12b",
+      "area": "Right Fork",
+      "date": "2023-07-20",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "49",
+      "grade": "5.12a",
+      "area": "Right Fork",
+      "date": "2023-07-18",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Dry Spunk",
+      "grade": "5.11c",
+      "area": "Right Fork",
+      "date": "2023-07-15",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Groundwork",
+      "grade": "5.11c",
+      "area": "Right Fork",
+      "date": "2023-07-15",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "License To Thrill",
+      "grade": "5.11c",
+      "area": "American Fork Canyon",
+      "date": "2023-07-13",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "The Great Train Robbery",
+      "grade": "5.11b",
+      "area": "Robber's Roost",
+      "date": "2023-07-06",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Gutter Mouth",
+      "grade": "5.12c",
+      "area": "Robber's Roost",
+      "date": "2023-07-06",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Feline",
+      "grade": "5.11b",
+      "area": "Ice Cave Walls",
+      "date": "2023-06-16",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Ricochet",
+      "grade": "5.12a",
+      "area": "Rifle Mountain Park",
+      "date": "2023-06-16",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Smarmacus Maximus",
+      "grade": "5.12c",
+      "area": "Rifle Mountain Park",
+      "date": "2023-06-15",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Choss Family Robinson",
+      "grade": "5.11c/d",
+      "area": "Rifle Mountain Park",
+      "date": "2023-06-14",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Paralyzed",
+      "grade": "5.11b",
+      "area": "Ash Spring",
+      "date": "2023-06-06",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "The Prophet",
+      "grade": "5.12b",
+      "area": "Ash Spring",
+      "date": "2023-06-06",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Hotline",
+      "grade": "5.12c",
+      "area": "Ash Spring",
+      "date": "2023-05-11",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Keep Your Powder Dry",
+      "grade": "5.12b",
+      "area": "The Trophy Area",
+      "date": "2023-05-04",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Tortuga",
+      "grade": "5.12a",
+      "area": "Saint George",
+      "date": "2023-04-11",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "The Waltz",
+      "grade": "5.12d",
+      "area": "Saint George",
+      "date": "2023-04-11",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Dancing Fox",
+      "grade": "5.12a",
+      "area": "Saint George",
+      "date": "2023-04-03",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Lambada",
+      "grade": "5.11a",
+      "area": "Saint George",
+      "date": "2023-03-30",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Farmers Market",
+      "grade": "5.11c",
+      "area": "Saint George",
+      "date": "2023-03-28",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Director of Humor Affairs",
+      "grade": "5.11a",
+      "area": "Saint George",
+      "date": "2023-03-25",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Farmers Dance",
+      "grade": "5.12a/b",
+      "area": "Saint George",
+      "date": "2023-03-19",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Baby Face",
+      "grade": "V7",
+      "area": "North Mountain",
+      "date": "2023-02-28",
+      "rating": 4.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "Bloodline",
+      "grade": "V7",
+      "area": "North Mountain",
+      "date": "2023-02-25",
+      "rating": 4.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "Denizen",
+      "grade": "V4",
+      "area": "North Mountain",
+      "date": "2023-02-23",
+      "rating": 4.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "Assless Chapstick",
+      "grade": "V7",
+      "area": "East Mountain",
+      "date": "2023-02-21",
+      "rating": 4.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "Dragon Fly, AKA: Dogmatics",
+      "grade": "V5",
+      "area": "East Mountain",
+      "date": "2023-02-21",
+      "rating": 4.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "Hobbit in a Blender",
+      "grade": "V5",
+      "area": "East Mountain",
+      "date": "2023-02-21",
+      "rating": 2.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "Gloria",
+      "grade": "V7",
+      "area": "Lower Lost Boulders",
+      "date": "2023-02-18",
+      "rating": 2.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "Perverse Cowgirl",
+      "grade": "V4",
+      "area": "Northern Box areas",
+      "date": "2023-02-18",
+      "rating": 2.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "McBain",
+      "grade": "V8",
+      "area": "North Mountain",
+      "date": "2023-02-14",
+      "rating": 4.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "T-Bone Shuffle",
+      "grade": "V4",
+      "area": "North Mountain",
+      "date": "2023-02-13",
+      "rating": 4.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "Another Day Another Dollar",
+      "grade": "V6",
+      "area": "North Mountain",
+      "date": "2023-02-10",
+      "rating": 3.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "Blackmail",
+      "grade": "V4",
+      "area": "North Mountain",
+      "date": "2023-02-08",
+      "rating": 2.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "See Spot Run",
+      "grade": "V6 PG13",
+      "area": "North Mountain",
+      "date": "2023-02-02",
+      "rating": 4.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "Girls of Texas",
+      "grade": "V5",
+      "area": "North Mountain",
+      "date": "2023-01-31",
+      "rating": 3.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": ""
+    },
+    {
+      "route_name": "Bloody Flapper",
+      "grade": "V4",
+      "area": "Lower Lost Boulders",
+      "date": "2023-01-28",
+      "rating": 4.0,
+      "type": "Boulder",
+      "style": "",
+      "notes": "I got it, onsight, no falls, went straight through. Sent!"
+    },
+    {
+      "route_name": "Two Rons Don't Make a Right",
+      "grade": "5.11c",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2022-12-05",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Bear Belly",
+      "grade": "5.12b",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2022-12-05",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Nanotechnology",
+      "grade": "5.11b",
+      "area": "Sore Heel Hollow",
+      "date": "2022-11-26",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "vinti, oto"
+    },
+    {
+      "route_name": "Belly of the Beast",
+      "grade": "5.12c",
+      "area": "Sore Heel Hollow",
+      "date": "2022-11-25",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Two Women Alone",
+      "grade": "5.11a",
+      "area": "Sore Heel Hollow",
+      "date": "2022-11-20",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "hiji dalapan belas"
+    },
+    {
+      "route_name": "Elevator Pitch",
+      "grade": "5.10a",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2022-11-07",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Nobody Cares",
+      "grade": "5.8",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2022-11-07",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Jingus",
+      "grade": "5.11b",
+      "area": "Sore Heel Hollow",
+      "date": "2022-11-05",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Fünf Neunzehn"
+    },
+    {
+      "route_name": "Collision Damage",
+      "grade": "5.11d",
+      "area": "Sore Heel Hollow",
+      "date": "2022-11-05",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "три деветнадесет"
+    },
+    {
+      "route_name": "Random Precision",
+      "grade": "5.11b",
+      "area": "Sore Heel Hollow",
+      "date": "2022-10-30",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Pyrite",
+      "grade": "5.11c",
+      "area": "Coal Bank Hollow",
+      "date": "2022-10-17",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "여덟과 하나"
+    },
+    {
+      "route_name": "Golden Shower",
+      "grade": "5.12a",
+      "area": "Coal Bank Hollow",
+      "date": "2022-10-17",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "The Last Supper",
+      "grade": "5.11a",
+      "area": "Sore Heel Hollow",
+      "date": "2022-10-15",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Cloudy with a Chance of Seamen",
+      "grade": "5.12a",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2022-10-02",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Crown of Thorns",
+      "grade": "5.11c",
+      "area": "Coal Bank Hollow",
+      "date": "2022-10-02",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "undeviginti, viginti"
+    },
+    {
+      "route_name": "Another Doug Reed Route",
+      "grade": "5.11a",
+      "area": "Northern Gorge",
+      "date": "2022-10-02",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "All Things Considered",
+      "grade": "5.11d",
+      "area": "Northern Gorge",
+      "date": "2022-10-01",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Believer",
+      "grade": "5.11b",
+      "area": "Sore Heel Hollow",
+      "date": "2022-09-26",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Super Pinch",
+      "grade": "5.10d",
+      "area": "Coal Bank Hollow",
+      "date": "2022-09-25",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "neljä yhdeksäntoista"
+    },
+    {
+      "route_name": "Chicken Boy",
+      "grade": "5.11b/c",
+      "area": "Coal Bank Hollow",
+      "date": "2022-09-25",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Green Horn",
+      "grade": "5.11a",
+      "area": "Coal Bank Hollow",
+      "date": "2022-09-25",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "نهه ویشت، شل."
+    },
+    {
+      "route_name": "Mona Lisa Overdrive",
+      "grade": "5.11b",
+      "area": "Coal Bank Hollow",
+      "date": "2022-09-25",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Birth of a Legend",
+      "grade": "5.11b/c",
+      "area": "Flat Hollow",
+      "date": "2022-09-23",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "여덟과 아홉"
+    },
+    {
+      "route_name": "Yoko Ono",
+      "grade": "5.12b/c",
+      "area": "Flat Hollow",
+      "date": "2022-09-23",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "שלושים ואחת, תשע עשרה"
+    },
+    {
+      "route_name": "Hakuna Matata",
+      "grade": "5.12a",
+      "area": "Drive-Bob Parking",
+      "date": "2022-09-21",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Wild, Yet Tasty",
+      "grade": "5.12a",
+      "area": "Northern Gorge",
+      "date": "2022-09-20",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "ဆယ့်ခြောက်ငါး"
+    },
+    {
+      "route_name": "Witness the Citrus",
+      "grade": "5.11c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2022-09-12",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Burlier's Bane",
+      "grade": "5.12a",
+      "area": "The Motherlode",
+      "date": "2022-09-05",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Տասնյոթ հինգ"
+    },
+    {
+      "route_name": "Lynx Jinx",
+      "grade": "5.11c",
+      "area": "The Zoo (CLOSED)",
+      "date": "2022-09-02",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Snapper",
+      "grade": "5.11a",
+      "area": "The Motherlode",
+      "date": "2022-09-01",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "hiji dua puluh lima"
+    },
+    {
+      "route_name": "Infectious",
+      "grade": "5.12b",
+      "area": "Northern Gorge",
+      "date": "2022-09-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "yigirma bir, besh"
+    },
+    {
+      "route_name": "Gold Rush",
+      "grade": "5.11d",
+      "area": "Sore Heel Hollow",
+      "date": "2022-09-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Plague Doctor",
+      "grade": "5.12a",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2022-09-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Diciotto e venti"
+    },
+    {
+      "route_name": "Cannonball",
+      "grade": "5.11b",
+      "area": "The Zoo (CLOSED)",
+      "date": "2022-08-30",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Keturiolika penkių"
+    },
+    {
+      "route_name": "On Beyond Zebra!",
+      "grade": "5.11b",
+      "area": "The Zoo (CLOSED)",
+      "date": "2022-08-30",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Animal Husbandry",
+      "grade": "5.11b",
+      "area": "The Zoo (CLOSED)",
+      "date": "2022-08-30",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Geezers Go Sport",
+      "grade": "5.11b",
+      "area": "The Zoo (CLOSED)",
+      "date": "2022-08-30",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "hiji dalapan"
+    },
+    {
+      "route_name": "Spirit Fingers",
+      "grade": "5.11c",
+      "area": "Drive-Bob Parking",
+      "date": "2022-08-30",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "neljä kaksikymmentä"
+    },
+    {
+      "route_name": "Crucify Me",
+      "grade": "5.11c",
+      "area": "Sore Heel Hollow",
+      "date": "2022-08-30",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Far From God",
+      "grade": "5.12b",
+      "area": "Sore Heel Hollow",
+      "date": "2022-08-30",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Zevenentwintig, elf"
+    },
+    {
+      "route_name": "Phantom Pain",
+      "grade": "5.11c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2022-08-28",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Sacbrood Virus",
+      "grade": "5.12a",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2022-08-27",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "ဆယ့်ခြောက်ရှစ်"
+    },
+    {
+      "route_name": "Pre-Op",
+      "grade": "5.10d",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2022-08-25",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Whip-Stocking",
+      "grade": "5.11a",
+      "area": "Drive-Bob Parking",
+      "date": "2022-08-24",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "twee een"
+    },
+    {
+      "route_name": "Magic Bed",
+      "grade": "5.11b/c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2022-08-22",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Last Rites",
+      "grade": "5.12b",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2022-08-22",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "neljä kahdeksantoista"
+    },
+    {
+      "route_name": "Super Dario",
+      "grade": "5.11a",
+      "area": "Northern Gorge",
+      "date": "2022-08-16",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Breakfast Burrito",
+      "grade": "5.10c/d",
+      "area": "Drive-Bob Parking",
+      "date": "2022-08-15",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "שלושים ואחת, עשרים"
+    },
+    {
+      "route_name": "Monkey in the Middle",
+      "grade": "5.11a",
+      "area": "The Zoo (CLOSED)",
+      "date": "2022-08-15",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "A Hole New World",
+      "grade": "5.12a",
+      "area": "Hole in the Wall",
+      "date": "2022-08-14",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "여덟과 일곱"
+    },
+    {
+      "route_name": "Juju Fruit",
+      "grade": "5.10c",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2022-08-10",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "King Me",
+      "grade": "5.11b",
+      "area": "Northern Gorge",
+      "date": "2022-08-09",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Zevenentwintig, veertien"
+    },
+    {
+      "route_name": "Jack in the Pulpit",
+      "grade": "5.10d",
+      "area": "Northern Gorge",
+      "date": "2022-08-06",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "EGBG",
+      "grade": "5.10a",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2022-08-06",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "sefulutasi sefulufa"
+    },
+    {
+      "route_name": "Loompa",
+      "grade": "5.10c/d",
+      "area": "(BRRP) Bald Rock Recreational Preserve",
+      "date": "2022-08-05",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Tesseract",
+      "grade": "5.10d",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2022-08-02",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Typhoid Mary",
+      "grade": "5.10a",
+      "area": "(MFRP) Miller Fork Recreational Preserve",
+      "date": "2022-08-02",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "sefulutasi lima"
+    },
+    {
+      "route_name": "Diamond in the Rough",
+      "grade": "5.10c",
+      "area": "Natural Bridge Region",
+      "date": "2022-08-02",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "mejilelogun, mẹrin"
+    },
+    {
+      "route_name": "Ruby Slippers",
+      "grade": "5.10d",
+      "area": "Natural Bridge Region",
+      "date": "2022-08-02",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "No Place Like Home",
+      "grade": "5.11c PG13",
+      "area": "Natural Bridge Region",
+      "date": "2022-08-02",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "eziyisikhombisa neshumi nanhlanu"
+    },
+    {
+      "route_name": "Muffintop",
+      "grade": "5.10d",
+      "area": "Sore Heel Hollow",
+      "date": "2022-08-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "A Brief History of Climb",
+      "grade": "5.10b",
+      "area": "Sore Heel Hollow",
+      "date": "2022-08-01",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Dave the Dude",
+      "grade": "5.11d",
+      "area": "Northern Gorge",
+      "date": "2022-08-01",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "ceithre cinn is fiche, sé déag"
+    },
+    {
+      "route_name": "Banshee",
+      "grade": "5.11c",
+      "area": "Muir Valley",
+      "date": "2021-11-19",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Air Ride Equipped",
+      "grade": "5.11a",
+      "area": "Muir Valley",
+      "date": "2021-11-02",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "",
+      "notes": "I got it, onsight, no falls, went straight through. Sent!"
+    },
+    {
+      "route_name": "Boltergeist",
+      "grade": "5.10a/b",
+      "area": "Muir Valley",
+      "date": "2021-11-02",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Smokin' Joe",
+      "grade": "5.11",
+      "area": "Northern Gorge",
+      "date": "2021-10-01",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "hiji salapan"
+    },
+    {
+      "route_name": "The Infidel",
+      "grade": "5.11d",
+      "area": "Northern Gorge",
+      "date": "2021-10-01",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "There Goes the Neighborhood",
+      "grade": "5.11c",
+      "area": "Northern Gorge",
+      "date": "2021-10-01",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "Ομάδα ένα έως έντεκα"
+    },
+    {
+      "route_name": "Prime Directive",
+      "grade": "5.11b",
+      "area": "Northern Gorge",
+      "date": "2021-10-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "十三，九"
+    },
+    {
+      "route_name": "Hardcore Jollies",
+      "grade": "5.12a",
+      "area": "Northern Gorge",
+      "date": "2021-10-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Hogeita hamar, hemeretzi"
+    },
+    {
+      "route_name": "Manic Impression",
+      "grade": "5.10a",
+      "area": "Northern Gorge",
+      "date": "2021-08-10",
+      "rating": 4.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "neljä viisi"
+    },
+    {
+      "route_name": "Funkadelic",
+      "grade": "5.10b PG13",
+      "area": "Northern Gorge",
+      "date": "2021-08-01",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "undeviginti, duodecim"
+    },
+    {
+      "route_name": "Autumn",
+      "grade": "5.9",
+      "area": "Northern Gorge",
+      "date": "2021-07-01",
+      "rating": 2.0,
+      "type": "Trad",
+      "style": "Onsight",
+      "notes": "hiji dua puluh"
+    },
+    {
+      "route_name": "Rock Wars",
+      "grade": "5.10a",
+      "area": "Northern Gorge",
+      "date": "2021-06-14",
+      "rating": 4.0,
+      "type": "Trad",
+      "style": "Onsight",
+      "notes": "Տասնյոթ վեց"
+    },
+    {
+      "route_name": "Return of Manimal",
+      "grade": "5.10c/d",
+      "area": "Muir Valley",
+      "date": "2020-11-02",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "Sáu bốn"
+    },
+    {
+      "route_name": "Critters on the Cliff",
+      "grade": "5.10c",
+      "area": "Muir Valley",
+      "date": "2020-11-02",
+      "rating": 1.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Bitter Ray of Sunshine",
+      "grade": "5.10b",
+      "area": "Muir Valley",
+      "date": "2020-10-02",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "iwakāluakūmālima, iwakāluakūmākahi"
+    },
+    {
+      "route_name": "Edge-a-Sketch",
+      "grade": "5.11a",
+      "area": "Muir Valley",
+      "date": "2020-10-02",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Rat Stew",
+      "grade": "5.10a",
+      "area": "Muir Valley",
+      "date": "2020-10-02",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "द्वादशसंख्या विंशतिसंख्या च"
+    },
+    {
+      "route_name": "Dynabolt Gold",
+      "grade": "5.10a",
+      "area": "Muir Valley",
+      "date": "2020-10-01",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": ""
+    },
+    {
+      "route_name": "Momma Cindy",
+      "grade": "5.11a",
+      "area": "Muir Valley",
+      "date": "2020-10-01",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "ceithre is fiche, cúig"
+    },
+    {
+      "route_name": "Creature Feature",
+      "grade": "5.9",
+      "area": "Northern Gorge",
+      "date": "2020-09-01",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Onsight",
+      "notes": "여덟과 열다섯"
+    },
+    {
+      "route_name": "Bathtub Mary",
+      "grade": "5.11a",
+      "area": "Muir Valley",
+      "date": "2020-09-01",
+      "rating": 3.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": ""
+    },
+    {
+      "route_name": "Creep Show",
+      "grade": "5.10d",
+      "area": "Northern Gorge",
+      "date": "2020-08-01",
+      "rating": 2.0,
+      "type": "Sport",
+      "style": "Redpoint",
+      "notes": "neljä kahdeksantoista"
+    }
+  ],
+  "statistics": {
+    "total_climbs": 396,
+    "unique_areas": 41,
+    "unique_grades": 41,
+    "unique_routes": 396,
+    "grade_distribution": {
+      "5.7": 1,
+      "5.12d": 23,
+      "5.12a": 65,
+      "5.10d": 14,
+      "5.11a": 22,
+      "5.11d": 21,
+      "5.11c": 32,
+      "5.10c": 10,
+      "5.10b": 9,
+      "5.12b/c": 7,
+      "5.13a": 16,
+      "5.12b": 49,
+      "5.12c": 38,
+      "5.11+": 1,
+      "5.12-": 1,
+      "5.11b": 22,
+      "5.13b": 4,
+      "5.12a/b": 7,
+      "5.11c/d": 2,
+      "V8": 2,
+      "5.12+": 2,
+      "5.11-": 1,
+      "5.10c/d": 6,
+      "5.11a/b": 5,
+      "5.11b V4": 1,
+      "5.13c": 1,
+      "5.8": 2,
+      "5.10b/c": 1,
+      "5.10-": 1,
+      "V7": 4,
+      "V4": 5,
+      "V5": 3,
+      "V6": 1,
+      "V6 PG13": 1,
+      "5.10a": 7,
+      "5.11b/c": 3,
+      "5.11c PG13": 1,
+      "5.10a/b": 1,
+      "5.11": 1,
+      "5.10b PG13": 1,
+      "5.9": 2
+    },
+    "area_distribution": {
+      "Natural Bridge Region": 25,
+      "Muir Valley": 35,
+      "Summersville Lake (main)": 6,
+      "Kaymoor": 3,
+      "Coal Bank Hollow": 26,
+      "Sore Heel Hollow": 35,
+      "Drive-Bob Parking": 23,
+      "(MFRP) Miller Fork Recreational Preserve": 52,
+      "(BRRP) Bald Rock Recreational Preserve": 27,
+      "Red River Gorge": 4,
+      "Northern Gorge": 34,
+      "The Motherlode": 21,
+      "Flat Hollow": 10,
+      "Downtown": 2,
+      "Old Road Crags": 3,
+      "Blacktail Butte": 1,
+      "Lake Point": 1,
+      "Crag 6": 4,
+      "Mondo Beyondo": 5,
+      "Valhalla": 11,
+      "French Cattle Ranch": 4,
+      "Red River Gorge Bouldering": 1,
+      "Lower Meadow": 3,
+      "The Zoo (CLOSED)": 11,
+      "Endless Wall": 2,
+      "Upper Meadow": 3,
+      "Aspen Glade": 5,
+      "Wild Iris": 1,
+      "Right Fork": 4,
+      "American Fork Canyon": 1,
+      "Robber's Roost": 2,
+      "Ice Cave Walls": 1,
+      "Rifle Mountain Park": 3,
+      "Ash Spring": 3,
+      "The Trophy Area": 1,
+      "Saint George": 7,
+      "North Mountain": 9,
+      "East Mountain": 3,
+      "Lower Lost Boulders": 2,
+      "Northern Box areas": 1,
+      "Hole in the Wall": 1
+    },
+    "climb_type_distribution": {
+      "Trad": 3,
+      "Sport": 375,
+      "Sport, Alpine": 1,
+      "Boulder": 16,
+      "Sport, Boulder": 1
+    },
+    "top_areas": {
+      "(MFRP) Miller Fork Recreational Preserve": 52,
+      "Muir Valley": 35,
+      "Sore Heel Hollow": 35,
+      "Northern Gorge": 34,
+      "(BRRP) Bald Rock Recreational Preserve": 27
+    },
+    "top_grades": {
+      "5.12a": 65,
+      "5.12b": 49,
+      "5.12c": 38,
+      "5.11c": 32,
+      "5.12d": 23
+    },
+    "top_routes": [
+      {
+        "name": "Roadside Attraction",
+        "grade": "5.7",
+        "area": "Natural Bridge Region",
+        "rating": 4.0
+      },
+      {
+        "name": "Wicked Games",
+        "grade": "5.12d",
+        "area": "Natural Bridge Region",
+        "rating": 4.0
+      },
+      {
+        "name": "Psycho Babble",
+        "grade": "5.12a",
+        "area": "Summersville Lake (main)",
+        "rating": 4.0
+      },
+      {
+        "name": "Code Red",
+        "grade": "5.13a",
+        "area": "Sore Heel Hollow",
+        "rating": 4.0
+      },
+      {
+        "name": "Whiskey in the Water",
+        "grade": "5.12d",
+        "area": "Natural Bridge Region",
+        "rating": 4.0
+      },
+      {
+        "name": "Mind Meld",
+        "grade": "5.12d",
+        "area": "Coal Bank Hollow",
+        "rating": 4.0
+      },
+      {
+        "name": "Golden Road",
+        "grade": "5.12a",
+        "area": "Muir Valley",
+        "rating": 4.0
+      },
+      {
+        "name": "Butane Junky",
+        "grade": "5.12b",
+        "area": "(BRRP) Bald Rock Recreational Preserve",
+        "rating": 4.0
+      },
+      {
+        "name": "Better Than Homemade",
+        "grade": "5.12d",
+        "area": "Natural Bridge Region",
+        "rating": 4.0
+      },
+      {
+        "name": "Repent for Your Sends",
+        "grade": "5.12d",
+        "area": "(MFRP) Miller Fork Recreational Preserve",
+        "rating": 4.0
+      }
+    ],
+    "average_rating": 3.0
+  },
+  "raw_count": 396,
+  "processed_count": 396
+}
