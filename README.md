@@ -35,13 +35,12 @@ pip install -r requirements.txt
 
 ### 4. Prepare Your Data
 
-Export your climbing data from Mountain Project as CSV or JSON. The expected format:
+Export your climbing data from Mountain Project as CSV or JSON. The expected format for the sample file is a Mountain Project export with columns like:
 
 **CSV Example:**
 ```csv
-route_name,grade,area,date,rating,type,notes
-The Nose,5.9,El Capitan,2023-06-15,4.5,Trad,Great route
-Red Roof,5.10b,Red Rock,2023-07-10,4.8,Sport,Amazing
+Date,Route,Rating,Notes,URL,Pitches,Location,Avg Stars,Your Stars,Style,Lead Style,Route Type,Your Rating,Length,Rating Code
+2026-06-02,Roadside Attraction,5.7,,https://www.mountainproject.com/route/105860741/roadside-attraction,2,Kentucky > Red River Gorge > Natural Bridge Region > Graining Fork Nature Preserve (a.k.a. Roadside Crag),3.8,4,Lead,Flash,Trad,,120,1800
 ```
 
 **JSON Example:**

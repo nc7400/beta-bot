@@ -1,0 +1,23 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+.venv/
+venv/
+
+# Streamlit and other local runtime files
+.streamlit/
+
+# Data files and uploads
+cache/
+data/uploads/
+
+# Environment / secret files
+*.env
+secrets.env
+
+# OS files
+.DS_Store
+Thumbs.db

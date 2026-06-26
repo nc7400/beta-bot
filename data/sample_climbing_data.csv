@@ -1,11 +1,9 @@
-route_name,grade,area,date,rating,type,notes
-The Nose,5.9,El Capitan,2023-06-15,4.5,Trad,Classic route
-Monkey Face,5.7,Smith Rock,2023-06-20,4.0,Trad,Great views
-Crack Baby,5.10a,Hueco Tanks,2023-07-01,3.5,Trad,Thin crack
-Red Roof,5.10b,Red Rock,2023-07-10,4.8,Sport,Amazing red rock
-Dreamweaver,5.11a,Smith Rock,2023-07-15,4.2,Sport,Technical
-The Incredible Hulk,5.13a,Sonoma,2023-08-01,5.0,Sport,Personal best!
-Thin Air,5.11d,Red Rock,2023-08-10,4.6,Sport,Challenging
-Arrowhead,5.10c,Joshua Tree,2023-08-20,4.1,Trad,Desert classic
-Mecca Wall,5.12a,Sonoma,2023-09-05,4.7,Sport,Pumpy route
-The Flake,5.9,Yosemite,2023-09-15,3.9,Trad,Fun feature
+Date,Route,Grade,Notes,URL,Pitches,Location,Average Rating,Your Rating,Style,Lead Style,Route Type,Your Suggested Grade,Length In Feet,Rating Code
+2026-06-02,Roadside Attraction,5.7,,https://www.mountainproject.com/route/105860741/roadside-attraction,2,Kentucky > Red River Gorge > Natural Bridge Region > Graining Fork Nature Preserve (a.k.a. Roadside Crag),3.8,4,Lead,Flash,Trad,,120,1800
+2026-06-02,Wicked Games,5.12d,"Have you ever had a dream that you, um, you had, your, you- you could, you’ll do, you- you wants, you, you could do so, you- you’ll do, you could- you, you want, you want them to do you so much you could do anything?",https://www.mountainproject.com/route/106062725/wicked-games,1,Kentucky > Red River Gorge > Natural Bridge Region > Graining Fork Nature Preserve (a.k.a. Roadside Crag),3.8,4,Lead,Redpoint,Sport,,85,7500
+2026-05-23,Stay the Hand,5.12a,,https://www.mountainproject.com/route/105880953/stay-the-hand,1,Kentucky > Red River Gorge > Natural Bridge Region > Graining Fork Nature Preserve (a.k.a. Roadside Crag),3.3,3,Lead,Redpoint,Sport,,50,6600
+2026-05-23,Dragonslayer,5.10d,,https://www.mountainproject.com/route/105886633/dragonslayer,1,Kentucky > Red River Gorge > Natural Bridge Region > Graining Fork Nature Preserve (a.k.a. Roadside Crag),3.1,3,Lead,Onsight,Sport,,50,3500
+2026-05-17,100 Years of Solitude,5.11a,,https://www.mountainproject.com/route/106937689/100-years-of-solitude,1,Kentucky > Red River Gorge > Muir Valley > Bibliothek,3,2,Lead,Onsight,Sport,,55,4600
+2026-05-17,Everything That Rises Must Converge,5.11d,,https://www.mountainproject.com/route/107073613/everything-that-rises-must-converge,1,Kentucky > Red River Gorge > Muir Valley > Bibliothek,3.2,3,Lead,Redpoint,Sport,,60,5500
+2026-05-17,Demon Copperhead,5.11d,,https://www.mountainproject.com/route/125548869/demon-copperhead,1,Kentucky > Red River Gorge > Muir Valley > Bibliothek,3.6,3,Lead,Onsight,Sport,,75,5500
+2026-05-17,Who Pooped in the Park?,5.11c,An absolute pile.,https://www.mountainproject.com/route/107073580/who-pooped-in-the-park,1,Kentucky > Red River Gorge > Muir Valley > Bibliothek,2.1,1,Lead,Onsight,Sport,,55,5200

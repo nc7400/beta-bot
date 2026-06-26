@@ -1,203 +1,265 @@
 """
-Streamlit web UI for Mountain Project Q&A Bot.
-Uses LangChain with Ollama (Llama2) model for RAG.
+Streamlit web UI for Beta-Bot (Mountain Project Q&A).
+
+FIX: Streamlit re-imports modules from cache between runs, which meant the
+updated ingest.py filtering logic wasn't being picked up. This version:
+  - Uses importlib.reload() to force fresh module load on every data reload
+  - Passes the processor instance (not a cached context string) so
+    get_context_for_llm() is always called fresh per question with the
+    correct filtering logic
+  - Strips context to absolute minimum for grade/route/area queries
+
+Model waterfall:
+  1. llama-3.3-70b-versatile  — best quality
+  2. llama-3.1-8b-instant     — fallback if rate limited
+
+Get a free Groq key at https://console.groq.com
 """
 
-import os
+import importlib
+import sys
 import streamlit as st
-import json
 from pathlib import Path
 from datetime import datetime
 
-from langchain_ollama import OllamaLLM
-
-from ingest import ClimbingDataProcessor
-from fetch import load_climbing_data
+from groq import Groq
 
 
-# Page configuration
+# ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Mountain Project Q&A Bot",
+    page_title="Beta-Bot | Climbing Q&A",
     page_icon="🧗",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="expanded",
 )
 
-# Initialize session state
-if "initialized" not in st.session_state:
-    st.session_state.initialized = False
-    st.session_state.llm = None
-    st.session_state.context = ""
-    st.session_state.messages = []
+PRIMARY_MODEL  = "llama-3.3-70b-versatile"
+FALLBACK_MODEL = "llama-3.1-8b-instant"
+
+# ── Session state ──────────────────────────────────────────────────────────────
+for key, default in {
+    "initialized": False,
+    "client":      None,
+    "processor":   None,
+    "messages":    [],
+    "data":        {},
+}.items():
+    if key not in st.session_state:
+        st.session_state[key] = default
 
 
-def init_llm(api_key: str = None):
-    """Initialize Ollama Llama2 LLM connection."""
-    try:
-        # Note: api_key parameter kept for compatibility but not used with Ollama
-        llm = OllamaLLM(
-            model="llama2",
-            base_url="http://localhost:11434",
-            temperature=0.2,
-        )
-        # Test connection
-        _ = llm.invoke("Hello")
-        return llm
-    except Exception as e:
-        st.error(f"❌ Cannot connect to Ollama. Make sure Ollama is running on http://localhost:11434\nError: {e}")
-        return None
+# ── Helpers ────────────────────────────────────────────────────────────────────
+
+def force_reload_modules():
+    """
+    Force Python to re-import fetch and ingest from disk.
+    Streamlit keeps old module objects in sys.modules between hot-reloads,
+    so without this the app silently runs stale code.
+    """
+    for mod_name in ('fetch', 'ingest'):
+        if mod_name in sys.modules:
+            importlib.reload(sys.modules[mod_name])
 
 
 def load_and_process_data(data_path: str):
-    """Load and process climbing data."""
+    force_reload_modules()
+    from fetch import load_climbing_data
+    from ingest import ClimbingDataProcessor
     try:
-        raw_data = load_climbing_data(data_path)
+        raw_data  = load_climbing_data(data_path)
         processor = ClimbingDataProcessor(raw_data)
-        result = processor.process()
-        return result, processor.get_context_for_llm()
+        result    = processor.process()
+        return result, processor
     except Exception as e:
         st.error(f"❌ Error loading data: {e}")
         return None, None
 
 
-def create_prompt(context: str, chat_history: str, question: str) -> str:
-    """Create a prompt string for Ollama Llama2."""
-    return f"""You are a helpful assistant that answers questions about climbing data.
+def init_client(api_key: str):
+    try:
+        client = Groq(api_key=api_key)
+        client.chat.completions.create(
+            model=FALLBACK_MODEL,
+            max_tokens=4,
+            messages=[{"role": "user", "content": "hi"}],
+        )
+        return client
+    except Exception as e:
+        st.error(f"❌ Could not connect to Groq: {e}")
+        return None
 
-Climbing History Context:
-{context}
 
-Chat History:
-{chat_history}
+def build_system_prompt(context: str) -> str:
+    return f"""You are Beta-Bot, a climbing-history assistant. Answer using ONLY the data below.
 
-Question: {question}
+RULES:
+1. Never invent route names, grades, dates, areas, or styles.
+2. Copy route names and grades EXACTLY as written in RAW CLIMB RECORDS.
+3. COUNT = simply count the records in RAW CLIMB RECORDS that match. Do not verify or cross-check.
+4. LIST = copy the matching records verbatim. Do not re-examine or second-guess them.
+5. Answer directly. Never loop, revise mid-answer, or say "however" about your own output.
+6. If the answer is absent: "I do not have that information in the data provided."
+7. difficulty_code is discipline-specific only. Never compare Sport/Trad codes to Boulder codes.
 
-Answer: Based on the climbing data and context provided, here's what I found:"""
+DATA:
+{context}"""
 
 
-# Sidebar configuration
+def ask_groq(client, system: str, history: list, question: str) -> tuple[str, str]:
+    messages = (
+        [{"role": "system", "content": system}]
+        + history
+        + [{"role": "user", "content": question}]
+    )
+    for model in (PRIMARY_MODEL, FALLBACK_MODEL):
+        try:
+            response = client.chat.completions.create(
+                model=model,
+                max_tokens=1024,
+                temperature=0,
+                messages=messages,
+            )
+            return response.choices[0].message.content, model
+        except Exception as e:
+            err = str(e)
+            if "413" in err or "rate_limit" in err or "tokens" in err.lower():
+                continue
+            return f"❌ Error: {e}", model
+    return (
+        "❌ Both models hit token limits. Try a more specific question "
+        "(include a grade, route name, or area).",
+        "none",
+    )
+
+
+# ── Sidebar ────────────────────────────────────────────────────────────────────
 with st.sidebar:
     st.title("⚙️ Configuration")
-    
+
+    api_key = st.text_input(
+        "🔑 Groq API Key",
+        type="password",
+        help="Free at https://console.groq.com — no credit card needed",
+        placeholder="gsk_...",
+    )
+
+    st.divider()
+
     data_file = st.file_uploader(
         "📁 Upload climbing data (CSV or JSON)",
         type=["csv", "json"],
-        help="CSV or JSON file with your climbing history"
     )
-    
+
     if data_file is not None:
-        # Save uploaded file temporarily
-        data_path = f"data/{data_file.name}"
-        Path("data").mkdir(exist_ok=True)
-        with open(data_path, "wb") as f:
+        upload_dir = Path(__file__).resolve().parent / "data" / "uploads"
+        upload_dir.mkdir(parents=True, exist_ok=True)
+        safe_name   = Path(data_file.name).name
+        upload_path = upload_dir / safe_name
+        if upload_path.exists():
+            upload_path = upload_dir / (
+                f"{Path(safe_name).stem}_{int(datetime.now().timestamp())}"
+                f"{Path(safe_name).suffix}"
+            )
+        with open(upload_path, "wb") as f:
             f.write(data_file.getbuffer())
-        
+
         if st.button("🔄 Load & Process Data"):
             with st.spinner("Processing data..."):
-                result, context = load_and_process_data(data_path)
+                result, processor = load_and_process_data(str(upload_path))
                 if result:
-                    st.session_state.context = context
-                    st.session_state.data = result
+                    st.session_state.processor = processor
+                    st.session_state.data      = result
+                    st.session_state.messages  = []
                     st.success(f"✅ Loaded {result['processed_count']} climbs!")
-    
+
     st.divider()
-    
+
     if st.button("🚀 Initialize Bot", key="init_button"):
-        with st.spinner("Connecting to Ollama (Llama2)..."):
-            llm = init_llm()
-            if llm and st.session_state.context:
-                st.session_state.llm = llm
-                st.session_state.initialized = True
-                st.success("✅ Bot ready!")
-            elif not st.session_state.context:
-                st.error("⚠️ Please load data first")
-    
+        if not api_key:
+            st.error("⚠️ Please enter your Groq API key")
+        elif not st.session_state.processor:
+            st.error("⚠️ Please load your climbing data first")
+        else:
+            with st.spinner("Connecting to Groq..."):
+                client = init_client(api_key)
+                if client:
+                    st.session_state.client      = client
+                    st.session_state.initialized = True
+                    st.success("✅ Beta-Bot ready!")
+
+    if st.session_state.initialized:
+        if st.button("🗑️ Clear chat history"):
+            st.session_state.messages = []
+            st.rerun()
+
     st.divider()
-    
-    st.markdown("### 📖 Help")
     st.markdown("""
-- **Upload Data**: Select your Mountain Project CSV or JSON export
-- **Initialize Bot**: Start the chatbot (requires Ollama running on http://localhost:11434)
-- **Ask Questions**: Query your climbing history naturally
+### 📖 Setup
+1. Free Groq key → [console.groq.com](https://console.groq.com)
+2. Upload your **Mountain Project CSV**
+3. **Load & Process Data**
+4. **Initialize Bot**
 
-### 🔧 Setup
-Make sure Ollama is running:
-```
-ollama serve llama2
-```
-    """)
+### 💡 Example questions
+- List all my 5.12d climbs
+- How many onsights at Muir Valley?
+- What's my hardest redpoint?
+- How many climbs in 2025?
+- Which area have I visited the most?
+""")
 
 
-# Main content
-st.title("🧗 Mountain Project Q&A Bot")
-st.markdown("Ask questions about your climbing history!")
+# ── Main UI ────────────────────────────────────────────────────────────────────
+st.title("🧗 Beta-Bot | Mountain Project Q&A")
+st.caption(f"Powered by Groq ({PRIMARY_MODEL}) — answers grounded strictly in your climbing data")
 
 if st.session_state.data and "statistics" in st.session_state.data:
-    # Display statistics
     stats = st.session_state.data["statistics"]
-    
-    col1, col2, col3, col4 = st.columns(4)
-    with col1:
-        st.metric("Total Climbs", stats.get("total_climbs", 0))
-    with col2:
-        st.metric("Unique Routes", stats.get("unique_routes", 0))
-    with col3:
-        st.metric("Areas Visited", stats.get("unique_areas", 0))
-    with col4:
-        st.metric("Avg Rating", f"{stats.get('average_rating', 0):.1f}")
-    
+    c1, c2, c3, c4, c5 = st.columns(5)
+    c1.metric("Total Climbs",    stats.get("total_climbs", 0))
+    c2.metric("Unique Routes",   stats.get("unique_routes", 0))
+    c3.metric("Areas Visited",   stats.get("unique_areas", 0))
+    c4.metric("Avg Your Rating", f"{stats.get('average_rating', 0):.1f}")
+    c5.metric("Redpoints",       len(stats.get("redpoints", [])))
     st.divider()
 
-# Chat interface
-st.subheader("💬 Ask Your Questions")
+st.subheader("💬 Ask About Your Climbs")
 
 if not st.session_state.initialized:
-    st.warning("⚠️ Please upload data and initialize the bot in the sidebar to get started.")
+    st.info("👈 Complete setup in the sidebar to get started.")
 else:
-    # Display chat history
-    for message in st.session_state.messages:
-        with st.chat_message(message["role"]):
-            st.markdown(message["content"])
-    
-    # User input
-    if user_input := st.chat_input("Ask me about your climbs..."):
-        # Add user message to history
+    for msg in st.session_state.messages:
+        with st.chat_message(msg["role"]):
+            st.markdown(msg["content"])
+
+    if user_input := st.chat_input("Ask me about your climbing history..."):
         st.session_state.messages.append({"role": "user", "content": user_input})
-        
         with st.chat_message("user"):
             st.markdown(user_input)
-        
-        # Generate response
-        with st.chat_message("assistant"):
-            with st.spinner("Thinking..."):
-                try:
-                    # Build chat history string
-                    chat_history = "\n".join([
-                        f"{msg['role'].capitalize()}: {msg['content']}"
-                        for msg in st.session_state.messages[:-1]
-                    ])
-                    
-                    # Generate prompt and get response from Ollama
-                    prompt = create_prompt(
-                        context=st.session_state.context,
-                        chat_history=chat_history,
-                        question=user_input,
-                    )
-                    response = st.session_state.llm.invoke(prompt)
-                    
-                    st.markdown(response)
-                    st.session_state.messages.append({"role": "assistant", "content": response})
-                    
-                except Exception as e:
-                    st.error(f"❌ Error generating response: {e}")
 
-# Footer
+        with st.chat_message("assistant"):
+            with st.spinner("Looking up your data..."):
+                # Always call get_context_for_llm fresh with the current question
+                # so the correct filtering logic runs every time
+                context = st.session_state.processor.get_context_for_llm(
+                    question=user_input
+                )
+                system  = build_system_prompt(context)
+                history = st.session_state.messages[:-1]
+
+                reply, model_used = ask_groq(
+                    st.session_state.client,
+                    system,
+                    history,
+                    user_input,
+                )
+                st.markdown(reply)
+                if model_used not in ("none", PRIMARY_MODEL):
+                    st.caption(f"⚡ Answered by fallback model ({model_used})")
+
+                st.session_state.messages.append(
+                    {"role": "assistant", "content": reply}
+                )
+
 st.divider()
-st.markdown("""
-**Example Questions:**
-- What are my top rated routes?
-- How many 5.13a climbs have I done?
-- Which area have I climbed in the most?
-- What's my hardest climb?
-- How many different types of routes have I tried?
-""")
+st.caption("Beta-Bot only answers from your uploaded data.")
